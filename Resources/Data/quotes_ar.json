@@ -1,0 +1,803 @@
+[
+  {
+    "text": "قيمة كل امرئ ما يُحسِنه.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "الناس نيامٌ فإذا ماتوا انتبهوا.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "wisdom",
+      "life"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "من عذُبَ لسانه كثُر إخوانه.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "friendship",
+      "wisdom"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "لا تنظر إلى من قال، وانظر إلى ما قال.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "wisdom",
+      "knowledge"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "الصبر مطيّةٌ لا تكبو.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "patience"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "العلم خيرٌ من المال؛ العلم يحرسك وأنت تحرس المال.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "من أحبَّ شيئًا أكثرَ من ذكره.",
+    "author": "علي بن أبي طالب",
+    "categories": [
+      "love"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "على قدر أهل العزم تأتي العزائمُ، وتأتي على قدر الكرام المكارمُ.",
+    "author": "المتنبي",
+    "categories": [
+      "success"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "وإذا كانت النفوس كبارًا تعبت في مرادها الأجسامُ.",
+    "author": "المتنبي",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "ما كل ما يتمنى المرء يدركه، تجري الرياح بما لا تشتهي السفنُ.",
+    "author": "المتنبي",
+    "categories": [
+      "life"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "أعزُّ مكانٍ في الدنى سرجُ سابحٍ، وخيرُ جليسٍ في الزمان كتابُ.",
+    "author": "المتنبي",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "ذو العقل يشقى في النعيم بعقله، وأخو الجهالة في الشقاوة ينعمُ.",
+    "author": "المتنبي",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "بقدر الكدِّ تُكتسب المعالي، ومن طلب العلا سهر الليالي.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "success"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "ومن لم يذق مُرَّ التعلم ساعةً، تجرَّع ذلَّ الجهل طول حياته.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "العلم ما نفع، ليس العلم ما حُفِظ.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "رأيي صوابٌ يحتمل الخطأ، ورأي غيري خطأٌ يحتمل الصواب.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "سافِر تجد عوضًا عمّن تفارقه، وانصَب فإن لذيذ العيش في النصبِ.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "life"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "الحياة التي لا يضيئها الخيال كليلٍ بلا قمر.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "life",
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "أعطني الناي وغنِّ، فالغِنا سرُّ الوجود.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "life"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "الجمال ليس في الوجه، الجمال ضوءٌ في القلب.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "love",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "أوسع الناس أملًا أقلُّهم يأسًا.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "الصداقة مسؤوليةٌ حلوة، وليست فرصةً سانحة.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "friendship"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "قد تنسى من شاركك الضحك، لكنك لن تنسى من شاركك البكاء.",
+    "author": "جبران خليل جبران",
+    "categories": [
+      "friendship",
+      "love"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "الوقت كالسيف، إن لم تقطعه قطعك.",
+    "author": "مثل عربي",
+    "categories": [
+      "time",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "لا تؤجل عمل اليوم إلى الغد.",
+    "author": "مثل عربي",
+    "categories": [
+      "time"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "رُبَّ أخٍ لك لم تلده أمك.",
+    "author": "مثل عربي",
+    "categories": [
+      "friendship"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الطيور على أشكالها تقع.",
+    "author": "مثل عربي",
+    "categories": [
+      "friendship",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "من جدَّ وجد، ومن زرع حصد.",
+    "author": "مثل عربي",
+    "categories": [
+      "success"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الحاجة أمُّ الاختراع.",
+    "author": "مثل عربي",
+    "categories": [
+      "success",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "عند الشدائد تُعرف الإخوان.",
+    "author": "مثل عربي",
+    "categories": [
+      "friendship",
+      "patience"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "خير الكلام ما قلَّ ودلَّ.",
+    "author": "مثل عربي",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "اطلبوا العلم من المهد إلى اللحد.",
+    "author": "مثل عربي",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الصبر مفتاح الفرج.",
+    "author": "مثل عربي",
+    "categories": [
+      "patience",
+      "hope"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الوطن ليس فندقًا نغادره إذا ساءت الخدمة.",
+    "author": "نجيب محفوظ",
+    "categories": [
+      "life"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "أجمل ما في الحياة أن يبقى في القلب أمل.",
+    "author": "نجيب محفوظ",
+    "categories": [
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "الخوف لا يمنع من الموت، ولكنه يمنع من الحياة.",
+    "author": "نجيب محفوظ",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "أذكى الناس من يستطيع أن يفرح رغم كل شيء.",
+    "author": "نجيب محفوظ",
+    "categories": [
+      "life",
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "على هذه الأرض ما يستحق الحياة.",
+    "author": "محمود درويش",
+    "categories": [
+      "hope"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "وأنا الغريب عن اللغات، وعن حديث الأصدقاء.",
+    "author": "محمود درويش",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "اشتدّي أزمةُ تنفرجي، قد آذن ليلُكِ بالبَلَجِ.",
+    "author": "ابن النحوي",
+    "categories": [
+      "patience",
+      "hope"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "قُم للمعلم وفِّه التبجيلا، كاد المعلم أن يكون رسولا.",
+    "author": "أحمد شوقي",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "وإذا أصابتك من الأيام جائحةٌ، فاصبر فإن لكل جائحةٍ فرجُ.",
+    "author": "أحمد شوقي",
+    "categories": [
+      "patience"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "وما نيلُ المطالب بالتمني، ولكن تُؤخذ الدنيا غِلابا.",
+    "author": "أحمد شوقي",
+    "categories": [
+      "success"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "أيها الشاكي وما بك داءٌ، كن جميلًا ترَ الوجود جميلا.",
+    "author": "إيليا أبو ماضي",
+    "categories": [
+      "hope",
+      "selfhood"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "والذي نفسُه بغير جمالٍ لا يرى في الوجود شيئًا جميلا.",
+    "author": "إيليا أبو ماضي",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "إن لم تزد شيئًا على الدنيا كنت زائدًا عليها.",
+    "author": "مصطفى صادق الرافعي",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "أعظم ما في الحياة أن تكون لك غايةٌ تعيش لها.",
+    "author": "مصطفى صادق الرافعي",
+    "categories": [
+      "life",
+      "success"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "لا تكن رطبًا فتُعصر، ولا يابسًا فتُكسر.",
+    "author": "حكمة عربية",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "من راقب الناس مات همًّا.",
+    "author": "حكمة عربية",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "إذا لم تستحِ فاصنع ما شئت.",
+    "author": "حكمة عربية",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "أول العلم الصمت، والثاني حسن الاستماع.",
+    "author": "حكمة عربية",
+    "categories": [
+      "knowledge",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "لسانك حصانك، إن صنته صانك، وإن خنته خانك.",
+    "author": "حكمة عربية",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الإنسان ابن عوائده ومألوفه، لا ابن طبيعته ومزاجه.",
+    "author": "ابن خلدون",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "الظلم مؤذنٌ بخراب العمران.",
+    "author": "ابن خلدون",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "اعمل لدنياك كأنك تعيش أبدًا، واعمل لآخرتك كأنك تموت غدًا.",
+    "author": "حكمة مأثورة",
+    "categories": [
+      "life",
+      "time"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الوقت هو الحياة، ومن ضيّع وقته ضيّع حياته.",
+    "author": "حسن البنا",
+    "categories": [
+      "time",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "من عرف نفسه فقد عرف ربه.",
+    "author": "حكمة مأثورة",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "الكتاب هو الجليس الذي لا يُطريك، والصديق الذي لا يغريك.",
+    "author": "الجاحظ",
+    "categories": [
+      "knowledge",
+      "friendship"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "الحكمة ضالة المؤمن، أنّى وجدها فهو أحق بها.",
+    "author": "حكمة مأثورة",
+    "categories": [
+      "knowledge",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "لا يُدرك العلم براحة الجسد.",
+    "author": "الإمام مسلم",
+    "categories": [
+      "knowledge",
+      "patience"
+    ],
+    "source": "classical"
+  },
+  {
+    "text": "من لم يذق ذلَّ التعلم، لم يعرف عزَّ العلم.",
+    "author": "حكمة عربية",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "العقل زينةٌ، والصمت سلامةٌ، والقناعة غنى.",
+    "author": "حكمة عربية",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "أحبك حين تُمطر، وأحبك أكثر حين تصمت.",
+    "author": "نزار قباني",
+    "categories": [
+      "love"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "الحب ليس رواية شرقية بختامها يتزوج الأبطال.",
+    "author": "نزار قباني",
+    "categories": [
+      "love"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "لا تحزن على ما فات، فقد يكون في ذهابه خيرٌ لك.",
+    "author": "حكمة عربية",
+    "categories": [
+      "patience",
+      "hope"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "كل شيء إذا كثُر رخُص، إلا الأدب فإنه إذا كثُر غلا.",
+    "author": "حكمة عربية",
+    "categories": [
+      "knowledge",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "إن الجبان يرى ما ليس يبصره، وإن للخوف تهويلًا وتعظيما.",
+    "author": "حكمة عربية",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "احذر عدوك مرةً، واحذر صديقك ألف مرة.",
+    "author": "حكمة عربية",
+    "categories": [
+      "friendship",
+      "wisdom"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "دع الأيام تفعل ما تشاء، وطِب نفسًا إذا حكم القضاء.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "patience"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "ولا تجزع لحادثة الليالي، فما لحوادث الدنيا بقاءُ.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "patience"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "وكن رجلًا على الأهوال جلدًا، وشيمتك السماحة والوفاءُ.",
+    "author": "الإمام الشافعي",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "poetry"
+  },
+  {
+    "text": "العلم نورٌ، والجهل ظلامٌ، وبينهما مسافة قراءة.",
+    "author": "طه حسين",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "التعليم كالماء والهواء، حقٌّ لكل إنسان.",
+    "author": "طه حسين",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "لا تُقاس الحياة بعدد الأنفاس، بل باللحظات التي حبست أنفاسنا.",
+    "author": "حكمة معاصرة",
+    "categories": [
+      "life"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "ابدأ من حيث أنت، استخدم ما لديك، افعل ما تستطيع.",
+    "author": "حكمة معاصرة",
+    "categories": [
+      "success",
+      "hope"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "النجاح ليس نهاية المطاف، والفشل ليس قاتلًا؛ الشجاعة في الاستمرار.",
+    "author": "حكمة معاصرة",
+    "categories": [
+      "success",
+      "patience"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "أصعب المعارك تُمنح لأقوى الجنود.",
+    "author": "حكمة معاصرة",
+    "categories": [
+      "patience",
+      "hope"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "لا تخف من البطء، بل خف من التوقف.",
+    "author": "مثل صيني",
+    "categories": [
+      "patience",
+      "success"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "رحلة الألف ميل تبدأ بخطوة.",
+    "author": "لاو تسو",
+    "categories": [
+      "success",
+      "hope"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "من لا يقرأ الكتب، لا يمتلك ميزةً على من لا يستطيع قراءتها.",
+    "author": "مارك توين",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "الحياة إما مغامرةٌ جريئة، أو لا شيء على الإطلاق.",
+    "author": "هيلين كيلر",
+    "categories": [
+      "life",
+      "hope"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "في وسط الصعوبة تكمن الفرصة.",
+    "author": "ألبرت أينشتاين",
+    "categories": [
+      "success",
+      "hope"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "الخيال أهم من المعرفة.",
+    "author": "ألبرت أينشتاين",
+    "categories": [
+      "knowledge",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "كن أنت التغيير الذي تريد أن تراه في العالم.",
+    "author": "المهاتما غاندي",
+    "categories": [
+      "selfhood",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "من لديه سببٌ ليعيش، يحتمل أي طريقةٍ للعيش تقريبًا.",
+    "author": "فريدريك نيتشه",
+    "categories": [
+      "patience",
+      "life"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "اعرف نفسك.",
+    "author": "سقراط",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "الحياة غير المُختبَرة لا تستحق أن تُعاش.",
+    "author": "سقراط",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "نحن ما نفعله مرارًا وتكرارًا؛ فالتميز إذن عادةٌ لا فعل.",
+    "author": "أرسطو",
+    "categories": [
+      "success",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "الصبر مرٌّ، لكن ثمرته حلوة.",
+    "author": "جان جاك روسو",
+    "categories": [
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "أعظم مجدٍ ليس في ألّا تسقط أبدًا، بل في أن تنهض كلما سقطت.",
+    "author": "كونفوشيوس",
+    "categories": [
+      "patience",
+      "success"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "اختر عملًا تحبه، فلن تضطر للعمل يومًا في حياتك.",
+    "author": "كونفوشيوس",
+    "categories": [
+      "success",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "السعادة ليست شيئًا جاهزًا، إنها تأتي من أفعالك.",
+    "author": "الدالاي لاما",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "الطريقة الوحيدة للقيام بعملٍ عظيم هي أن تحب ما تفعله.",
+    "author": "ستيف جوبز",
+    "categories": [
+      "success",
+      "love"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "وقتك محدود، فلا تُضيّعه عائشًا حياة شخصٍ آخر.",
+    "author": "ستيف جوبز",
+    "categories": [
+      "time",
+      "life"
+    ],
+    "source": "modern"
+  }
+]

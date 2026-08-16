@@ -1,0 +1,10 @@
+# Build output — reproducible from source with ./build.sh
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.xcuserstate

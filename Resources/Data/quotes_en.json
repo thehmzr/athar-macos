@@ -1,0 +1,903 @@
+[
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "categories": [
+      "success",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "categories": [
+      "time",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Stay hungry. Stay foolish.",
+    "author": "Steve Jobs",
+    "categories": [
+      "motivation"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "categories": [
+      "wisdom",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "categories": [
+      "patience",
+      "success"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein",
+    "categories": [
+      "knowledge",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Try not to become a man of success, but rather a man of value.",
+    "author": "Albert Einstein",
+    "categories": [
+      "success",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "selfhood",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "knowledge",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Know thyself.",
+    "author": "Socrates",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Will Durant",
+    "categories": [
+      "success",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "categories": [
+      "motivation",
+      "success"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Nature does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu",
+    "categories": [
+      "time",
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "categories": [
+      "patience",
+      "motivation"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "categories": [
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius",
+    "categories": [
+      "work",
+      "success"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "categories": [
+      "success",
+      "patience"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "categories": [
+      "patience"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "categories": [
+      "life",
+      "motivation"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Alone we can do so little; together we can do so much.",
+    "author": "Helen Keller",
+    "categories": [
+      "friendship",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "author": "Proverb",
+    "categories": [
+      "time",
+      "motivation"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "categories": [
+      "patience"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "A smooth sea never made a skilled sailor.",
+    "author": "Proverb",
+    "categories": [
+      "patience"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "categories": [
+      "patience",
+      "life"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche",
+    "categories": [
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Without music, life would be a mistake.",
+    "author": "Friedrich Nietzsche",
+    "categories": [
+      "life"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "categories": [
+      "wisdom",
+      "knowledge"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Lost time is never found again.",
+    "author": "Benjamin Franklin",
+    "categories": [
+      "time"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin",
+    "categories": [
+      "work",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The person who says it cannot be done should not interrupt the person doing it.",
+    "author": "Chinese Proverb",
+    "categories": [
+      "motivation",
+      "work"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "categories": [
+      "patience",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "categories": [
+      "motivation",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford",
+    "categories": [
+      "patience",
+      "success"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Coming together is a beginning; keeping together is progress; working together is success.",
+    "author": "Edward Everett Hale",
+    "categories": [
+      "work",
+      "friendship"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Be kind whenever possible. It is always possible.",
+    "author": "Dalai Lama",
+    "categories": [
+      "life",
+      "friendship"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Peace begins with a smile.",
+    "author": "Mother Teresa",
+    "categories": [
+      "life",
+      "friendship"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Not all of us can do great things. But we can do small things with great love.",
+    "author": "Mother Teresa",
+    "categories": [
+      "love",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle",
+    "categories": [
+      "patience",
+      "hope"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Hope is being able to see that there is light despite all of the darkness.",
+    "author": "Desmond Tutu",
+    "categories": [
+      "hope"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "categories": [
+      "motivation",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "categories": [
+      "selfhood",
+      "motivation"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "categories": [
+      "motivation",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Comparison is the thief of joy.",
+    "author": "Theodore Roosevelt",
+    "categories": [
+      "selfhood",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt",
+    "categories": [
+      "motivation"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Darkness cannot drive out darkness; only light can do that.",
+    "author": "Martin Luther King Jr.",
+    "categories": [
+      "love",
+      "hope"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The time is always right to do what is right.",
+    "author": "Martin Luther King Jr.",
+    "categories": [
+      "wisdom",
+      "time"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Injustice anywhere is a threat to justice everywhere.",
+    "author": "Martin Luther King Jr.",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela",
+    "categories": [
+      "motivation",
+      "patience"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "categories": [
+      "knowledge"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "I never lose. I either win or learn.",
+    "author": "Nelson Mandela",
+    "categories": [
+      "patience",
+      "knowledge"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "categories": [
+      "life"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "author": "Oscar Wilde",
+    "categories": [
+      "hope",
+      "life"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain",
+    "categories": [
+      "life",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "categories": [
+      "motivation",
+      "success"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Kindness is a language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain",
+    "categories": [
+      "love",
+      "friendship"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "categories": [
+      "life",
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "All we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "categories": [
+      "time",
+      "life"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "It is not our abilities that show what we truly are. It is our choices.",
+    "author": "J.K. Rowling",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "author": "J.K. Rowling",
+    "categories": [
+      "hope"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "What we think, we become.",
+    "author": "Buddha",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "author": "Buddha",
+    "categories": [
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "You only lose what you cling to.",
+    "author": "Buddha",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The greatest wealth is to live content with little.",
+    "author": "Plato",
+    "categories": [
+      "wisdom",
+      "life"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Be kind, for everyone you meet is fighting a hard battle.",
+    "author": "Plato",
+    "categories": [
+      "love",
+      "friendship"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Waste no more time arguing what a good man should be. Be one.",
+    "author": "Marcus Aurelius",
+    "categories": [
+      "selfhood",
+      "time"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "categories": [
+      "selfhood",
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "categories": [
+      "selfhood",
+      "life"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "We suffer more often in imagination than in reality.",
+    "author": "Seneca",
+    "categories": [
+      "selfhood",
+      "wisdom"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca",
+    "categories": [
+      "success",
+      "work"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "author": "Seneca",
+    "categories": [
+      "time"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Difficulties strengthen the mind, as labor does the body.",
+    "author": "Seneca",
+    "categories": [
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "First say to yourself what you would be; and then do what you have to do.",
+    "author": "Epictetus",
+    "categories": [
+      "selfhood",
+      "success"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "It’s not what happens to you, but how you react to it that matters.",
+    "author": "Epictetus",
+    "categories": [
+      "patience",
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "No man is free who is not master of himself.",
+    "author": "Epictetus",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "categories": [
+      "hope",
+      "motivation"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "categories": [
+      "motivation",
+      "selfhood"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "What you get by achieving your goals is not as important as what you become by achieving them.",
+    "author": "Henry David Thoreau",
+    "categories": [
+      "success",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau",
+    "categories": [
+      "motivation",
+      "life"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "It’s not enough to be busy; the question is: what are we busy about?",
+    "author": "Henry David Thoreau",
+    "categories": [
+      "time",
+      "work"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Proverb",
+    "categories": [
+      "selfhood"
+    ],
+    "source": "proverb"
+  },
+  {
+    "text": "A friend is someone who knows all about you and still loves you.",
+    "author": "Elbert Hubbard",
+    "categories": [
+      "friendship",
+      "love"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "The best mirror is an old friend.",
+    "author": "George Herbert",
+    "categories": [
+      "friendship"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "categories": [
+      "love",
+      "friendship"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "categories": [
+      "love",
+      "life"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "categories": [
+      "motivation",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupéry",
+    "categories": [
+      "wisdom",
+      "work"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+    "author": "Antoine de Saint-Exupéry",
+    "categories": [
+      "love",
+      "wisdom"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Everything should be made as simple as possible, but not simpler.",
+    "author": "Albert Einstein",
+    "categories": [
+      "wisdom",
+      "work"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Well done is better than well said.",
+    "author": "Benjamin Franklin",
+    "categories": [
+      "work",
+      "wisdom"
+    ],
+    "source": "modern"
+  },
+  {
+    "text": "Quality is not an act, it is a habit.",
+    "author": "Aristotle",
+    "categories": [
+      "work",
+      "success"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "Patience is bitter, but its fruit is sweet.",
+    "author": "Jean-Jacques Rousseau",
+    "categories": [
+      "patience"
+    ],
+    "source": "philosophy"
+  },
+  {
+    "text": "The wound is the place where the light enters you.",
+    "author": "Rumi",
+    "categories": [
+      "hope",
+      "patience"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+    "author": "Rumi",
+    "categories": [
+      "wisdom",
+      "selfhood"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "What you seek is seeking you.",
+    "author": "Rumi",
+    "categories": [
+      "hope",
+      "love"
+    ],
+    "source": "literature"
+  },
+  {
+    "text": "Raise your words, not your voice. It is rain that grows flowers, not thunder.",
+    "author": "Rumi",
+    "categories": [
+      "wisdom",
+      "love"
+    ],
+    "source": "literature"
+  }
+]
