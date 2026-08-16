@@ -6,6 +6,8 @@ feature unlocked. No paid tier, no account, no network access at runtime.
 
 *Athar* (أثر) means a trace, a mark left behind.
 
+![Athar on the desktop](docs/images/hero.png)
+
 ---
 
 ## Install
@@ -132,6 +134,12 @@ Letter-spacing is applied to Latin text only and is always exactly zero for
 Arabic. Arabic is a connected script: spacing the glyphs apart breaks the joins
 that define the letterforms.
 
+Every face previews in its own type, grouped by school:
+
+![Choosing an Arabic face](docs/images/settings-typography.png)
+
+![All 24 Arabic faces](docs/images/fonts.png)
+
 **Appearance**
 
 - 10 presets, including Mushaf and Parchment for Arabic text
@@ -142,6 +150,14 @@ that define the letterforms.
 - Corner radius, padding, border, shadow, background opacity
 - Shadow depth scales with the widget's layer: a desktop-pinned widget gets a
   contact shadow, an always-on-top one gets a deep drop shadow
+
+![Dark themes](docs/images/themes-dark.png)
+![Light themes](docs/images/themes-light.png)
+
+Glass can follow the system appearance. The material and the text palette switch
+together, so text never ends up light-on-light:
+
+![Glass in dark and light mode](docs/images/glass-adaptive.png)
 
 **Content**
 
@@ -163,12 +179,16 @@ A **quote length** control keeps long verses off small widgets. Left on *Fit to
 widget*, the limit is derived from the widget's own area, so a 260×200 tile
 asks for short quotes while a banner accepts long ones.
 
+![Filtering content](docs/images/settings-content.png)
+
 **Choosing what's included**
 
 Library → *Included content* has a switch per source. Turning one off removes it
 from every widget and from the library in one click — useful if you don't want
 the Qur'an or Hadith sets, for example. Nothing is deleted; switch it back on at
 any time, or press **Include all**. Everything ships enabled by default.
+
+![Choosing what's included](docs/images/settings-library.png)
 
 **Collections and favourites**
 
