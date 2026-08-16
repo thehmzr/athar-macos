@@ -50,7 +50,7 @@ Right-to-left with correct shaping, ligatures and full diacritics.
 ### Appearance
 
 Ten presets, plus solid, gradient, glass and image backgrounds. Independent
-colours for quote, translation, attribution and border.
+colour for quote, translation, attribution and border.
 
 ![Dark themes](docs/images/themes-dark.png)
 ![Light themes](docs/images/themes-light.png)
