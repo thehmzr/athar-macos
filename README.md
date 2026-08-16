@@ -188,27 +188,20 @@ is the part that moves.
 
 ---
 
-## Text provenance
+## Text and typography notes
 
-Qur'anic verses are the **Uthmani text from quran.com**, retrieved through their
-API and byte-identical to the source — full verses, not fragments, and kept
-short enough to remain readable in a widget. Translations are **Saheeh
-International**, also from quran.com, with footnote markers stripped. Verses
-carry surah and ayah references.
+Qur'anic verses are complete verses in the Uthmani script, kept short enough to
+remain readable in a widget, and set in the traditional ornate brackets ﴿ ﴾
+rather than quotation marks. Each carries its surah and ayah reference.
 
-Hadith are matched against the vocalised (*mushakkala*) editions of Sahih
-al-Bukhari, Sahih Muslim, Sunan al-Tirmidhi, Sunan Ibn Majah and Sunan Abu
-Dawud, and carry the authoritative vocalised text where a match was found (21 of
-25). The remaining four are not present in those five collections. Each carries
-its collection as its attribution.
+Hadith carry their collection as the attribution, in the vocalised text.
 
-Qur'anic verses are set in the traditional ornate brackets ﴿ ﴾ rather than
-quotation marks.
+English renderings of Arabic scripture appear beneath it at roughly the size of
+the reference line and in a quieter tone — a gloss to read if you look for it,
+not a second quote competing with the verse. It is dropped automatically when a
+widget is too small to render it legibly.
 
-English renderings of the Arabic scripture are shown beneath it at roughly the
-size of the reference line and in a quieter tone — a gloss to read if you look
-for it, not a second quote competing with the verse. It is dropped automatically
-when a widget is too small to render it legibly.
+Sources and licences for the fonts and texts are listed in [CREDITS.md](CREDITS.md).
 
 ---
 
@@ -280,11 +273,6 @@ Output lands in `build/preview`. Regenerate the app icon with `Tools/Icon`.
 
 ## Licence
 
-The application source is released into the public domain under the Unlicense —
-see [LICENSE](LICENSE).
-
-Bundled fonts remain under the **SIL Open Font License 1.1**, with each family's
-copyright notice reproduced in [Resources/Fonts/OFL.txt](Resources/Fonts/OFL.txt).
-Qur'anic text and its translation come from quran.com; hadith texts from the
-published collections. Those texts are not covered by the public-domain
-dedication.
+Application source is released into the public domain under the Unlicense — see
+[LICENSE](LICENSE). Bundled fonts remain under the SIL Open Font License 1.1;
+see [CREDITS.md](CREDITS.md) for fonts, texts and their terms.
