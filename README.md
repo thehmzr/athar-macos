@@ -138,8 +138,6 @@ Every face previews in its own type, grouped by school:
 
 ![Choosing an Arabic face](docs/images/settings-typography.png)
 
-![All 24 Arabic faces](docs/images/fonts.png)
-
 **Appearance**
 
 - 10 presets, including Mushaf and Parchment for Arabic text
