@@ -6,7 +6,7 @@ feature unlocked. No paid tier, no account, no network access at runtime.
 
 *Athar* (أثر) means a trace, a mark left behind.
 
-![Athar on the desktop](docs/images/hero.png)
+![Athar](docs/images/banner.png)
 
 ---
 
