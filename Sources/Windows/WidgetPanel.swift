@@ -315,13 +315,38 @@ final class PanelChromeView: NSView {
 /// NSVisualEffectView bridged for the "Glass" background style.
 struct VisualEffectBackground: NSViewRepresentable {
     let material: NSVisualEffectView.Material
+    let cornerRadius: CGFloat
 
     func makeNSView(context: Context) -> NSVisualEffectView {
         let v = NSVisualEffectView()
-        v.material = material
         v.blendingMode = .behindWindow
         v.state = .active
         return v
     }
-    func updateNSView(_ v: NSVisualEffectView, context: Context) { v.material = material }
+
+    func updateNSView(_ v: NSVisualEffectView, context: Context) {
+        v.material = material
+        v.maskImage = Self.roundedMask(radius: cornerRadius)
+    }
+
+    /// SwiftUI's `clipShape` does not clip AppKit views hosted inside an
+    /// `NSViewRepresentable`, so the blur would paint a full rectangle and its
+    /// square corners would show outside the widget's rounded shape.
+    ///
+    /// `NSVisualEffectView` does respect `maskImage`. Drawing it as a resizable
+    /// image with cap insets keeps the corner radius fixed while the middle
+    /// stretches, so it stays correct at any panel size without redrawing.
+    private static func roundedMask(radius: CGFloat) -> NSImage {
+        let r = max(0, radius)
+        let side = r * 2 + 1                    // corners plus one stretchable pixel
+        let image = NSImage(size: NSSize(width: side, height: side),
+                            flipped: false) { rect in
+            NSColor.black.setFill()
+            NSBezierPath(roundedRect: rect, xRadius: r, yRadius: r).fill()
+            return true
+        }
+        image.capInsets = NSEdgeInsets(top: r, left: r, bottom: r, right: r)
+        image.resizingMode = .stretch
+        return image
+    }
 }

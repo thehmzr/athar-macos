@@ -214,7 +214,8 @@ struct QuoteWidgetView: View {
                 if system.reduceTransparency {
                     theme.solidColor.color
                 } else {
-                    VisualEffectBackground(material: theme.glassMaterial.nsMaterial)
+                    VisualEffectBackground(material: theme.glassMaterial.nsMaterial,
+                                           cornerRadius: theme.cornerRadius)
                 }
             case .image:
                 ZStack {
