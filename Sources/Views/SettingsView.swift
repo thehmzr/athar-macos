@@ -319,9 +319,10 @@ struct AppearanceTab: View {
             }
             Toggle("Shadow", isOn: $cfg.theme.shadowEnabled)
             if cfg.theme.shadowEnabled {
-                LabeledSlider(label: "Shadow size", value: $cfg.theme.shadowRadius, range: 0...60)
-                LabeledSlider(label: "Shadow depth", value: $cfg.theme.shadowOpacity,
-                              range: 0...1, step: 0.01)
+                Text("Drawn by macOS, so it falls outside the widget and follows "
+                     + "its corners. A shadow drawn inside the widget could only "
+                     + "spread into the corners, which showed as grey wedges.")
+                    .font(.caption).foregroundStyle(.secondary)
             }
         }
     }

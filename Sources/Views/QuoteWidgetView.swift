@@ -158,9 +158,6 @@ struct QuoteWidgetView: View {
                     .strokeBorder(borderGradient(theme),
                                   lineWidth: theme.borderEnabled ? theme.borderWidth : 0)
             )
-            .shadow(color: .black.opacity(theme.shadowEnabled ? theme.shadowOpacity : 0),
-                    radius: shadowRadius(theme, size: geo.size),
-                    x: 0, y: shadowRadius(theme, size: geo.size) * 0.25)
             .onHover { hovering = $0 }
             .animation(.easeOut(duration: 0.15), value: hovering)
         }

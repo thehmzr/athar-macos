@@ -31,7 +31,7 @@ final class WidgetPanel: NSPanel {
         hidesOnDeactivate = false
         isOpaque = false
         backgroundColor = .clear
-        hasShadow = false            // drawn in SwiftUI so it follows the corner radius
+        hasShadow = false            // set per-theme in apply(_:)
         isMovableByWindowBackground = true
         minSize = Self.minSize
         animationBehavior = .none
@@ -112,6 +112,12 @@ final class WidgetPanel: NSPanel {
         // Background dragging bypasses the chrome overlay entirely, so it has to
         // be disabled too or a "locked" widget would still slide around.
         isMovableByWindowBackground = !cfg.locked
+        // Let AppKit draw the shadow. A SwiftUI shadow is confined to the
+        // window's own bounds, and the window is exactly the card's size, so it
+        // had nowhere to fall except into the corners — which is what showed as
+        // grey wedges. The system shadow is drawn outside the window and
+        // follows the content's alpha, so it rounds with the card.
+        hasShadow = cfg.theme.shadowEnabled
         applyLock(cfg)
         applyAppearance(cfg.theme)
     }
