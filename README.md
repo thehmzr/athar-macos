@@ -1,80 +1,79 @@
-# Athar — أثر
+# Athar
 
-A freely resizable quote widget for the macOS desktop, with a full Arabic
-calligraphy type library. Every feature unlocked, no account, no network access.
+A resizable quote widget for the Mac desktop, with a proper Arabic font library.
+Everything's unlocked. No account, no network.
 
 ![Athar](docs/images/banner.png)
 
 ## Install
 
-Download `Athar.dmg` from [Releases](../../releases) and drag Athar into
-Applications. Requires macOS 14 or later.
+Grab `Athar.dmg` from [Releases](../../releases), drag it into Applications.
+Needs macOS 14+.
 
-Athar is signed ad-hoc, so clear the download flag **before** opening it the
-first time:
+It's ad-hoc signed, so run this before you open it the first time or macOS will
+block it:
 
 ```bash
 xattr -dr com.apple.quarantine /Applications/Athar.app
 ```
 
-Or build it yourself — locally built apps skip that step entirely:
+Building it yourself skips that:
 
 ```bash
 git clone https://github.com/thehmzr/athar-macos.git && cd athar-macos
 ./build.sh --install
 ```
 
-Athar runs from the menu bar. There is no Dock icon.
+It lives in the menu bar, no Dock icon.
 
-Uninstall with `rm -rf /Applications/Athar.app ~/Library/Application\ Support/Athar`
+To remove: `rm -rf /Applications/Athar.app ~/Library/Application\ Support/Athar`
 
-## Features
+## What it does
 
-**Resizable.** Drag any edge or corner, from a 160×110 tile to a full-width
-banner — text refits itself to whatever size you choose. Multiple independent
-widgets, each with its own look and content.
+Drag any edge to resize, 160x110 up to a full-width banner. The text resizes
+itself to fit. You can run as many widgets as you want, each set up differently.
 
-**Placement.** Pinned to the desktop, a normal window, or always on top. Lock
-position and size, click through to what's behind, show on every Space.
+Sits on the desktop, or as a normal window, or always on top. Can be locked in
+place, made click-through, or shown on every Space.
 
-**Shuffle.** Every 10 seconds to once a day, or manual. Random or sequential.
+Shuffles anywhere from every 10 seconds to once a day, random or in order.
 
-### Typography
+### Fonts
 
-24 Arabic faces across Naskh, Kufic, Ruq'ah, Nasta'liq, display and modern —
-Amiri, Scheherazade New, Aref Ruqaa, Reem Kufi, Noto Nastaliq, Cairo and more.
-Right-to-left with correct shaping, ligatures and full diacritics.
+24 Arabic faces - Naskh, Kufic, Ruq'ah, Nasta'liq, display, modern. Amiri,
+Scheherazade New, Aref Ruqaa, Reem Kufi, Noto Nastaliq, Cairo and others. RTL
+with proper shaping and diacritics.
 
 ![Arabic faces](docs/images/settings-typography.png)
 
-### Appearance
+### Looks
 
-Ten presets, plus solid, gradient, glass and image backgrounds. Independent
-colour for quote, translation, attribution and border.
+10 presets. Solid, gradient, glass or image backgrounds. Separate colours for
+the quote, translation, attribution and border.
 
 ![Dark themes](docs/images/themes-dark.png)
 ![Light themes](docs/images/themes-light.png)
 
-Glass follows the system appearance — material and text switch together.
+Glass tracks the system light/dark setting, text included.
 
 ![Glass in dark and light](docs/images/glass-adaptive.png)
 
-### Content
+### Quotes
 
-297 quotes — 103 English, 194 Arabic. Qur'an, Hadith, poetry, proverbs,
-philosophy and literature, filtered by language, source, category and length.
-Arabic scripture carries an English rendering beneath it.
+297 of them, 103 English and 194 Arabic. Qur'an, hadith, poetry, proverbs,
+philosophy, literature. Filter by language, source, category or length. Arabic
+scripture gets an English translation underneath.
 
 ![Filtering](docs/images/settings-content.png)
 
-Switch any source off to remove it from every widget in one click. Favourite
-quotes, file them into named collections, or write your own.
+You can switch off any source you don't want, favourite things, sort them into
+collections, or add your own quotes.
 
 ![Included content](docs/images/settings-library.png)
 
 ## Licence
 
-Source released into the public domain under the [Unlicense](LICENSE).
+Code is public domain, see [LICENSE](LICENSE).
 
-Bundled fonts remain under the SIL Open Font License 1.1. Fonts and text sources
-are listed in [CREDITS.md](CREDITS.md).
+Fonts are SIL OFL 1.1. See [CREDITS.md](CREDITS.md) for fonts and where the text
+came from.
